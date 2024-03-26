@@ -1,0 +1,21 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  img {
+    display: block;
+  }
+  
+  body {
+    width: 100vw;
+    height: 100vh;
+    padding: 4rem 18.75%;
+  }
